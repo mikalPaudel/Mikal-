@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "421857665314",
+    "project_id": "vehicle-pooling-79f06",
+    "storage_bucket": "vehicle-pooling-79f06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421857665314:android:032dede65f2421413b057b",
+        "android_client_info": {
+          "package_name": "com.example.fairshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421857665314-l1tijs6qn4fga1qkcur7b60v9foo6bo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLIA5xbNMvcyoGCA6HI16zn2XdSMo0p8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421857665314-l1tijs6qn4fga1qkcur7b60v9foo6bo4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "421857665314-sf2l5kdv0j5a60739tbi832ics2lk9sn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fairshare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

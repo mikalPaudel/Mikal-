@@ -1,0 +1,21 @@
+API:AIzaSyC1e1LEMoEjOqMBF7QiGYMQa6gfwXdGkTk
+
+
+
+
+For Linux or macOS:
+
+$
+keytool -list -v -keystore ~/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+
+
+For Windows:
+
+$
+keytool -list -v -keystore "%USERPROFILE%\.android\debug.keystore" -alias androiddebugkey -storepass android -keypass android
+
+
+
+Release certificate fingerprint
+$
+keytool -list -v -keystore your_keystore_name -alias your_alias_name
