@@ -51,6 +51,8 @@ dependencies:
   feedback: ^2.5.0
   rate_my_app: ^1.1.3
   fluttertoast: ^8.1.2
+  tuple: ^2.0.1
+  image_picker: ^0.8.6+3
   
 
 dev_dependencies:
